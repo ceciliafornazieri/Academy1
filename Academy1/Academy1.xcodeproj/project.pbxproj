@@ -72,6 +72,7 @@
 		8CDC5C5027F63A8D00948B23 /* beleza */ = {
 			isa = PBXGroup;
 			children = (
+				8CDC5C5127F63BDE00948B23 /* scururu */,
 			);
 			path = beleza;
 			sourceTree = "<group>";
@@ -81,6 +82,11 @@
 			children = (
 			);
 			path = naobeleza;
+		8CDC5C5127F63BDE00948B23 /* scururu */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = scururu;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
