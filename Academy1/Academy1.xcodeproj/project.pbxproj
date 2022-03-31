@@ -13,6 +13,7 @@
 		8CDC5C4427F6208000948B23 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8CDC5C4227F6208000948B23 /* Main.storyboard */; };
 		8CDC5C4627F6208200948B23 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8CDC5C4527F6208200948B23 /* Assets.xcassets */; };
 		8CDC5C4927F6208200948B23 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8CDC5C4727F6208200948B23 /* LaunchScreen.storyboard */; };
+		955B825327F63FEB00B2E8D4 /* naobeleza.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955B825227F63FEB00B2E8D4 /* naobeleza.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8CDC5C4527F6208200948B23 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8CDC5C4827F6208200948B23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8CDC5C4A27F6208200948B23 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		955B825227F63FEB00B2E8D4 /* naobeleza.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = naobeleza.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,7 +80,7 @@
 			path = beleza;
 			sourceTree = "<group>";
 		};
-		955B825127F63BB300B2E8D4 /* naobeleza */ = {
+		8CDC5C5127F63BDE00948B23 /* scururu */ = {
 			isa = PBXGroup;
 			children = (
 			);
@@ -86,10 +88,15 @@
                           sourceTree = "<group>";
 		};
 		8CDC5C5127F63BDE00948B23 /* scururu */ = {
+			path = scururu;
+			sourceTree = "<group>";
+		};
+		955B825127F63BB300B2E8D4 /* naobeleza */ = {
 			isa = PBXGroup;
 			children = (
+				955B825227F63FEB00B2E8D4 /* naobeleza.swift */,
 			);
-			path = scururu;
+			path = naobeleza;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -166,6 +173,7 @@
 				8CDC5C4127F6208000948B23 /* ViewController.swift in Sources */,
 				8CDC5C3D27F6208000948B23 /* AppDelegate.swift in Sources */,
 				8CDC5C3F27F6208000948B23 /* SceneDelegate.swift in Sources */,
+				955B825327F63FEB00B2E8D4 /* naobeleza.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
