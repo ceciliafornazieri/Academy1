@@ -56,6 +56,7 @@
 		8CDC5C3B27F6208000948B23 /* Academy1 */ = {
 			isa = PBXGroup;
 			children = (
+				955B825127F63BB300B2E8D4 /* naobeleza */,
 				8CDC5C5027F63A8D00948B23 /* beleza */,
 				8CDC5C3C27F6208000948B23 /* AppDelegate.swift */,
 				8CDC5C3E27F6208000948B23 /* SceneDelegate.swift */,
@@ -73,6 +74,13 @@
 			children = (
 			);
 			path = beleza;
+			sourceTree = "<group>";
+		};
+		955B825127F63BB300B2E8D4 /* naobeleza */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = naobeleza;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
