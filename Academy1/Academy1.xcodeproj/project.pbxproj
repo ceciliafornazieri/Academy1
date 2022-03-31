@@ -56,6 +56,7 @@
 		8CDC5C3B27F6208000948B23 /* Academy1 */ = {
 			isa = PBXGroup;
 			children = (
+				8CDC5C5027F63A8D00948B23 /* beleza */,
 				8CDC5C3C27F6208000948B23 /* AppDelegate.swift */,
 				8CDC5C3E27F6208000948B23 /* SceneDelegate.swift */,
 				8CDC5C4027F6208000948B23 /* ViewController.swift */,
@@ -65,6 +66,13 @@
 				8CDC5C4A27F6208200948B23 /* Info.plist */,
 			);
 			path = Academy1;
+			sourceTree = "<group>";
+		};
+		8CDC5C5027F63A8D00948B23 /* beleza */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = beleza;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
